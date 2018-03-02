@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.qf.p2p:QfP2p_Common:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/qf/p2p/QfP2p_Common/1.0-SNAPSHOT/QfP2p_common-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/qf/p2p/QfP2p_Common/1.0-SNAPSHOT/QfP2p_Common-1.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/qf/p2p/QfP2p_Common/1.0-SNAPSHOT/QfP2p_Common-1.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

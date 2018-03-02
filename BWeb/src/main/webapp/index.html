@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>B系统主页面--招聘</title>
+    <script type="application/javascript" src="media/jquery.js"></script>
+    <script type="application/javascript" src="media/jquery.cookie.js"></script>
+    <script type="application/javascript" src="media/sso.js"></script>
+    <script type="application/javascript">
+
+        $(function () {
+            checkCookie("usertoken","http://localhost:8080/sw/checklogin.do");
+        });
+    </script>
+
+</head>
+<body>
+<h1 id="hmsg">未登录</h1>
+<h1>B系统登-招聘系统</h1>
+</body>
+</html>

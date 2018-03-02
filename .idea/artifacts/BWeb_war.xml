@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="BWeb:war">
+    <output-path>$PROJECT_DIR$/BWeb/target</output-path>
+    <root id="archive" name="BWeb-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="BWeb:war exploded" />
+    </root>
+  </artifact>
+</component>

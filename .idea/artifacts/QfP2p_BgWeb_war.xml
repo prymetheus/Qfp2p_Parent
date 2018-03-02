@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="QfP2p_BgWeb:war">
+    <output-path>$PROJECT_DIR$/QfP2p_BgWeb/target</output-path>
+    <root id="archive" name="QfP2p_BgWeb-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="QfP2p_BgWeb:war exploded" />
+    </root>
+  </artifact>
+</component>

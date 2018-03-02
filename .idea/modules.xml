@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AWeb/AWeb.iml" filepath="$PROJECT_DIR$/AWeb/AWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BWeb/BWeb.iml" filepath="$PROJECT_DIR$/BWeb/BWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CWeb/CWeb.iml" filepath="$PROJECT_DIR$/CWeb/CWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QfP2p_BgWeb/QfP2p_BgWeb.iml" filepath="$PROJECT_DIR$/QfP2p_BgWeb/QfP2p_BgWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QfP2p_Common/QfP2p_Common.iml" filepath="$PROJECT_DIR$/QfP2p_Common/QfP2p_Common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QfP2p_Domain/QfP2p_Domain.iml" filepath="$PROJECT_DIR$/QfP2p_Domain/QfP2p_Domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QfP2p_SSOService/QfP2p_SSOService.iml" filepath="$PROJECT_DIR$/QfP2p_SSOService/QfP2p_SSOService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QfP2p_SSOWeb/QfP2p_SSOWeb.iml" filepath="$PROJECT_DIR$/QfP2p_SSOWeb/QfP2p_SSOWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QfP2p_UserDao/QfP2p_UserDao.iml" filepath="$PROJECT_DIR$/QfP2p_UserDao/QfP2p_UserDao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QfP2p_UserService/QfP2p_UserService.iml" filepath="$PROJECT_DIR$/QfP2p_UserService/QfP2p_UserService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QfP2p_UserServiceProvider/QfP2p_UserServiceProvider.iml" filepath="$PROJECT_DIR$/QfP2p_UserServiceProvider/QfP2p_UserServiceProvider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Qfp2p_Parent.iml" filepath="$PROJECT_DIR$/Qfp2p_Parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Qfp2p_UIWed/Qfp2p_UIWed.iml" filepath="$PROJECT_DIR$/Qfp2p_UIWed/Qfp2p_UIWed.iml" />
+    </modules>
+  </component>
+</project>

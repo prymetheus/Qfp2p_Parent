@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/AWeb" />
+    <file type="web" url="file://$PROJECT_DIR$/BWeb" />
+    <file type="web" url="file://$PROJECT_DIR$/CWeb" />
+    <file type="web" url="file://$PROJECT_DIR$/QfP2p_BgWeb" />
+    <file type="web" url="file://$PROJECT_DIR$/QfP2p_SSOService" />
+    <file type="web" url="file://$PROJECT_DIR$/QfP2p_SSOWeb" />
+    <file type="web" url="file://$PROJECT_DIR$/Qfp2p_UIWed" />
+    <file type="web" url="file://$PROJECT_DIR$/QfP2p_UserServiceProvider" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SvnBranchConfigurationManager">
+    <option name="mySupportsUserInfoFilter" value="true" />
+  </component>
+</project>

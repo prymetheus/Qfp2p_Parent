@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="QfP2p_SSOService:war">
+    <output-path>$PROJECT_DIR$/QfP2p_SSOService/target</output-path>
+    <root id="archive" name="QfP2p_SSOService-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="QfP2p_SSOService:war exploded" />
+    </root>
+  </artifact>
+</component>

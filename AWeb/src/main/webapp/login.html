@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>A站登录系统--人力系统</title>
+    <script type="application/javascript" src="media/jquery.js"></script>
+    <script type="application/javascript" src="media/sso.js">
+
+    </script>
+</head>
+<body>
+<h1>A系统--人力系统</h1>
+<form id="form" action="http://localhost:8080/sw/login.do">
+    <input placeholder="用户名" name="name">
+    <br/>
+    <input placeholder="密码" type="password" name="pass"><br/>
+    <input type="button" onclick="login('form','http://localhost:8080/sw/login.do')" value="登录">
+</form>
+</body>
+</html>

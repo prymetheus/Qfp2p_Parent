@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="AWeb" />
+        <module name="BWeb" />
+        <module name="CWeb" />
+        <module name="QfP2p_BgWeb" />
+        <module name="QfP2p_common" />
+        <module name="QfP2p_Common" />
+        <module name="QfP2p_Domain" />
+        <module name="QfP2p_domain" />
+        <module name="QfP2p_SSOService" />
+        <module name="QfP2p_SSOWeb" />
+        <module name="Qfp2p_UIWed" />
+        <module name="QfP2p_UserDao" />
+        <module name="QfP2p_UserService" />
+        <module name="QfP2p_UserServiceProvider" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="AWeb" target="1.8" />
+      <module name="BWeb" target="1.8" />
+      <module name="CWeb" target="1.8" />
+      <module name="QfP2p_BgWeb" target="1.8" />
+      <module name="QfP2p_common" target="1.8" />
+      <module name="QfP2p_Common" target="1.8" />
+      <module name="QfP2p_domain" target="1.8" />
+      <module name="QfP2p_Domain" target="1.8" />
+      <module name="Qfp2p_Parent" target="1.8" />
+      <module name="QfP2p_SSOService" target="1.8" />
+      <module name="QfP2p_SSOWeb" target="1.8" />
+      <module name="Qfp2p_UIWed" target="1.8" />
+      <module name="QfP2p_UserDao" target="1.8" />
+      <module name="QfP2p_UserService" target="1.8" />
+      <module name="QfP2p_UserServiceProvider" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
